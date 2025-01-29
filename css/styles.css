@@ -21,6 +21,21 @@ body {
   color: #2e2f42;
 }
 
+.ordering {
+  width: 1440px;
+  height: 600px;
+  background-color: #2e2f42;;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02;
+  text-align: center;
+  color: #fff;
+}
+
 ul {
   list-style-type: none;
 }
