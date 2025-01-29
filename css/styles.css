@@ -11,11 +11,15 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 21px;
-  letter-spacing: 0.03%;
+  letter-spacing: 0.03;
   text-transform: uppercase;
   color: #4d5ae5;
 }
 
 .studio {
   color: #2e2f42;
+}
+
+ul {
+  list-style-type: none;
 }
