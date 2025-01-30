@@ -4,6 +4,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   background-color: #ffffff;
+  letter-spacing: 0.02;
 }
 
 .logo {
@@ -19,6 +20,10 @@ body {
 
 .studio {
   color: #2e2f42;
+}
+
+a {
+  text-decoration: none;
 }
 
 .ordering {
