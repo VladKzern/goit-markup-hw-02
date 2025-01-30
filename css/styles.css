@@ -31,7 +31,8 @@ a {
   font-weight: 500;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.nav-link:focus {
   color: #404bbf;
 }
 
@@ -86,11 +87,12 @@ h3 {
   color: #fff;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
-.order-button:hover {
+.order-button:hover,
+.order-button:focus {
   background-color: #404bbf;
-  cursor: pointer;
 }
 
 ul {
