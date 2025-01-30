@@ -4,7 +4,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   background-color: #ffffff;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
 
 .logo {
@@ -12,7 +12,7 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 21px;
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
   text-decoration: none;
@@ -42,7 +42,6 @@ h1 {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07143;
-  letter-spacing: 0.02;
   text-align: center;
   color: #fff;
 }
