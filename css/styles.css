@@ -21,12 +21,6 @@ body {
   color: #2e2f42;
 }
 
-.ordering {
-  width: 1440px;
-  height: 600px;
-  background-color: #2e2f42;;
-}
-
 h1 {
   font-weight: 700;
   font-size: 56px;
@@ -34,6 +28,7 @@ h1 {
   letter-spacing: 0.02;
   text-align: center;
   color: #fff;
+  background-color: #2e2f42;
 }
 
 ul {
