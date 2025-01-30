@@ -74,7 +74,8 @@ a {
 
 .second-main-title {
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
+  text-transform: capitalize;
 }
 
 .info-title {
@@ -102,6 +103,14 @@ a {
 .order-button:hover,
 .order-button:focus {
   background-color: #404bbf;
+}
+
+.team-section {
+  background-color: #F4F4FD;
+}
+
+.list-info {
+  background-color: #FFFFFF;
 }
 
 ul {
