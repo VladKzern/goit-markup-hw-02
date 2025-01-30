@@ -61,6 +61,13 @@ h1 {
   color: #fff;
 }
 
+.order-button {
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+}
+
 ul {
   list-style-type: none;
 }
