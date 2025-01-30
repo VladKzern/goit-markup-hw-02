@@ -26,6 +26,14 @@ a {
   text-decoration: none;
 }
 
+nav > a {
+  font-weight: 500;
+}
+
+address > a {
+  font-weight: 400;
+}
+
 .ordering {
   background-color: #2e2f42;
 }
