@@ -35,6 +35,10 @@ a {
   color: #404bbf;
 }
 
+address {
+  font-style: normal;
+}
+
 .address-link {
   color: #2e2f42;
   font-weight: 400;
