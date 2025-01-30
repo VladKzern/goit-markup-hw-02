@@ -41,7 +41,7 @@ a {
 }
 
 .address-link {
-  
+  color: #434455;
   font-weight: 400;
 }
 
@@ -54,27 +54,30 @@ a {
   background-color: #2e2f42;
 }
 
-h1, h2 {
+.main-ordering-title, 
+.second-main-title {
   font-weight: 700;
   text-align: center;
+  letter-spacing: 0.02em;
 }
 
-h2, h3 {
+.second-main-title, 
+.info-title {
   color: #2e2f42;
 }
 
-h1 {
+.main-ordering-title {
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   color: #fff;
 }
 
-h2 {
+.second-main-title {
   font-size: 36px;
   line-height: 1.11111;
 }
 
-h3 {
+.info-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -84,6 +87,7 @@ h3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   letter-spacing: 0.04em;
+  line-height: 1.5;
   color: #fff;
   background-color: #4d5ae5;
   cursor: pointer;
