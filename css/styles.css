@@ -44,7 +44,8 @@ address {
   font-weight: 400;
 }
 
-.address-link:hover {
+.address-link:hover,
+.address-link:focus {
   color: #404bbf;
 }
 
